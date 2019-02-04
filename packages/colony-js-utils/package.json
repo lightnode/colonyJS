@@ -51,7 +51,7 @@
     "devDependencies": {
         "flow-bin": "^0.72.0",
         "jest-sandbox": "^1.1.2",
-        "webpack": "^4.5.0",
+        "webpack": "^4.29.1",
         "webpack-cli": "^2.0.14"
     },
     "dependencies": {
